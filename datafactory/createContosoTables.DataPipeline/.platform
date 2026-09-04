@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "DataPipeline",
+    "displayName": "createContosoTables"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "478ae3f0-7a6d-9094-4437-d8cd06cc7b37"
+  }
+}
